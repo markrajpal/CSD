@@ -1,3 +1,5 @@
+import org.junit.After;
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
@@ -11,6 +13,11 @@ public class TestCsd {
 
     public static Logger log = Logger.getLogger(TestCsd.class.getName());
 
+    @Before
+    public void setUp() {
+        log.info("setup");
+    }
+
     @Test
     public void test1() {
 
@@ -19,5 +26,8 @@ public class TestCsd {
         assertTrue(five_var > 0);
     }
 
-
+    @After
+    public void tearDown() {
+        log.info("teardown");
+    }
 }
