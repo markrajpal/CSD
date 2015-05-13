@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/StarTrek/Galaxy.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StarTrek/Game.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/main/java/StarTrek/Klingon.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Untouchables/SampleClient.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/main/java/Untouchables/WebGadget.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/test/java/MockGalaxy.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/test/java/MockKlingon.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/test/java/MockRandom.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestPhaserCharacterizationTests.java" charset="US-ASCII" />
+    <file url="file://$PROJECT_DIR$/src/test/java/TestPhotonCharacterizationTests.java" charset="US-ASCII" />
+  </component>
 </project>
 
