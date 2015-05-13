@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/StarTrek/Galaxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/StarTrek/Game.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/StarTrek/Klingon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/MockGalaxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/MockKlingon.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/MockRandom.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Untouchables/SampleClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestPhaserCharacterizationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/TestPhotonCharacterizationTests.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Untouchables/WebGadget.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CSD.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" time="1431522672804" ignored="false" />
+    <file path="/Dummy.txt" changelist="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" time="1431535169106" ignored="false" />
     <file path="/pom.xml" changelist="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" time="1431066624823" ignored="false" />
     <file path="/fragment.java" changelist="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" time="1431529566776" ignored="false" />
     <file path="/TestCsd.java" changelist="0e98f470-63e2-4dfd-97b4-21c5eea00bdb" time="1431069357126" ignored="false" />
@@ -103,7 +92,7 @@
       <file leaf-file-name="Game.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/StarTrek/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="36" selection-start="673" selection-end="673" vertical-scroll-proportion="0.15675676">
+            <state line="33" column="53" selection-start="673" selection-end="673" vertical-scroll-proportion="0.15675676">
               <folding />
             </state>
           </provider>
@@ -676,7 +665,11 @@
       <created>1431069450516</created>
       <updated>1431069450516</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="got the tests working">
+      <created>1431535182685</created>
+      <updated>1431535182685</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -753,7 +746,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding setup and teardown methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="got the tests working" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -771,6 +764,7 @@
     <MESSAGE value="refactoring" />
     <MESSAGE value="adding a test" />
     <MESSAGE value="adding setup and teardown methods" />
+    <MESSAGE value="got the tests working" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -897,7 +891,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/StarTrek/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="36" selection-start="673" selection-end="673" vertical-scroll-proportion="0.15675676">
+        <state line="33" column="53" selection-start="673" selection-end="673" vertical-scroll-proportion="0.15675676">
           <folding />
         </state>
       </provider>
