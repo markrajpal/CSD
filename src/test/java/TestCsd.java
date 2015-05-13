@@ -13,17 +13,26 @@ public class TestCsd {
 
     public static Logger log = Logger.getLogger(TestCsd.class.getName());
 
+    int five_var;
+
     @Before
     public void setUp() {
         log.info("setup");
+        five_var = 5;
     }
 
     @Test
     public void test1() {
 
         log.info("Start");
-        int five_var  = 5;
         assertTrue(five_var > 0);
+    }
+
+    @Test
+    public void test2() {
+
+        log.info("Start2");
+        assertTrue(five_var > 1);
     }
 
     @After
